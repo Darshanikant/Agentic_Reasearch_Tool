@@ -1,0 +1,5 @@
+langchain
+google-generativeai
+duckduckgo-search
+fpdf
+python-dotenv
